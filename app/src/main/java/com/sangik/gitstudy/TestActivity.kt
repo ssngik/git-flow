@@ -10,5 +10,6 @@ class TestActivity : AppCompatActivity() {
         setContentView(R.layout.activity_test)
 
         Log.d("TEST", "TEST 입니다.")
+        Log.d("TEST", "TEST TEST")
     }
 }
