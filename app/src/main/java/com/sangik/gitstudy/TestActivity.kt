@@ -9,7 +9,7 @@ class TestActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_test)
 
-        Log.d("TEST", "TEST 입니다.")
+        Log.d("TEST", "bug 수정")
         Log.d("TEST", "TEST TEST")
     }
 }
